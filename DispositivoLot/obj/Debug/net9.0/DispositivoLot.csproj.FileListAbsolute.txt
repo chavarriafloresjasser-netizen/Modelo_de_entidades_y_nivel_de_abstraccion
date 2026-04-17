@@ -1,0 +1,14 @@
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/bin/Debug/net9.0/DispositivoLot
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/bin/Debug/net9.0/DispositivoLot.deps.json
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/bin/Debug/net9.0/DispositivoLot.runtimeconfig.json
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/bin/Debug/net9.0/DispositivoLot.dll
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/bin/Debug/net9.0/DispositivoLot.pdb
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/DispositivoLot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/DispositivoLot.AssemblyInfoInputs.cache
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/DispositivoLot.AssemblyInfo.cs
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/DispositivoLot.csproj.CoreCompileInputs.cache
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/DispositivoLot.dll
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/refint/DispositivoLot.dll
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/DispositivoLot.pdb
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/DispositivoLot.genruntimeconfig.cache
+/Users/ggalba0390gmail.com/Luis/elpepe/DispositivoLot/obj/Debug/net9.0/ref/DispositivoLot.dll
