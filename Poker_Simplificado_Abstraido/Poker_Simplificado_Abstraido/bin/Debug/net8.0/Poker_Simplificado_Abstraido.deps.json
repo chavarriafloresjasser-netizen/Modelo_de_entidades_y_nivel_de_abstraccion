@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Poker_Simplificado_Abstraido/1.0.0": {
+        "runtime": {
+          "Poker_Simplificado_Abstraido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poker_Simplificado_Abstraido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

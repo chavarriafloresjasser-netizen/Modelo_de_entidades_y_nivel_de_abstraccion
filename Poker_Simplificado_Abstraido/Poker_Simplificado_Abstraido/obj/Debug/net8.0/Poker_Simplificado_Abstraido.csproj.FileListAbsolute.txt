@@ -1,0 +1,14 @@
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\bin\Debug\net8.0\Poker_Simplificado_Abstraido.exe
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\bin\Debug\net8.0\Poker_Simplificado_Abstraido.deps.json
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\bin\Debug\net8.0\Poker_Simplificado_Abstraido.runtimeconfig.json
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\bin\Debug\net8.0\Poker_Simplificado_Abstraido.dll
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\bin\Debug\net8.0\Poker_Simplificado_Abstraido.pdb
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\Poker_Simplificado_Abstraido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\Poker_Simplificado_Abstraido.AssemblyInfoInputs.cache
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\Poker_Simplificado_Abstraido.AssemblyInfo.cs
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\Poker_Simplificado_Abstraido.csproj.CoreCompileInputs.cache
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\Poker_Simplificado_Abstraido.dll
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\refint\Poker_Simplificado_Abstraido.dll
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\Poker_Simplificado_Abstraido.pdb
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\Poker_Simplificado_Abstraido.genruntimeconfig.cache
+C:\Users\Familia Garcia\Documents\C Sharp\Poker_Simplificado_Abstraido\Poker_Simplificado_Abstraido\obj\Debug\net8.0\ref\Poker_Simplificado_Abstraido.dll
