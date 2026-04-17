@@ -1,0 +1,14 @@
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/bin/Debug/net9.0/ALQUILERVEHICULO
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/bin/Debug/net9.0/ALQUILERVEHICULO.deps.json
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/bin/Debug/net9.0/ALQUILERVEHICULO.runtimeconfig.json
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/bin/Debug/net9.0/ALQUILERVEHICULO.dll
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/bin/Debug/net9.0/ALQUILERVEHICULO.pdb
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ALQUILERVEHICULO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ALQUILERVEHICULO.AssemblyInfoInputs.cache
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ALQUILERVEHICULO.AssemblyInfo.cs
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ALQUILERVEHICULO.csproj.CoreCompileInputs.cache
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ALQUILERVEHICULO.dll
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/refint/ALQUILERVEHICULO.dll
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ALQUILERVEHICULO.pdb
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ALQUILERVEHICULO.genruntimeconfig.cache
+/Users/ggalba0390gmail.com/Luis/elpepe/ALQUILERVEHICULO/obj/Debug/net9.0/ref/ALQUILERVEHICULO.dll
