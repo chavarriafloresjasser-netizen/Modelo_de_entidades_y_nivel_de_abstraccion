@@ -1,0 +1,14 @@
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\bin\Debug\net10.0\ContenidoStreaming.exe
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\bin\Debug\net10.0\ContenidoStreaming.deps.json
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\bin\Debug\net10.0\ContenidoStreaming.runtimeconfig.json
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\bin\Debug\net10.0\ContenidoStreaming.dll
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\bin\Debug\net10.0\ContenidoStreaming.pdb
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ContenidoStreaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ContenidoStreaming.AssemblyInfoInputs.cache
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ContenidoStreaming.AssemblyInfo.cs
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ContenidoStreaming.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ContenidoStreaming.dll
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\refint\ContenidoStreaming.dll
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ContenidoStreaming.pdb
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ContenidoStreaming.genruntimeconfig.cache
+C:\Users\MSI KATANA\source\repos\SistemaNetflix\ContenidoStreaming\obj\Debug\net10.0\ref\ContenidoStreaming.dll
